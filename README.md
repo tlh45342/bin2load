@@ -13,7 +13,7 @@ To Tac on to that the reference is to the SIMH PDP11 emulator.  I had a dickens 
 Oringinal Source:
 https://github.com/jguillaumes/retroutils/tree/master/bin2load
 
-This repository ("bin2load" ) was forked / created to create a repository for just the executable.  I didn't need or want to build the entire source repository from Jordi.  So this streamlines and cuts down to just this.
+This repository ("bin2load" ) was forked / created to create a repository for just the executable.  I didn't need or want to build the entire source repository from Jordi.
 
 I am attempting to get this to run on Windows; Linux; Mac.  I can't test it directly for Mac.
 
