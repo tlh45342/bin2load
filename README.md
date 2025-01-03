@@ -1,7 +1,12 @@
 # bin2load
-This is a program blah blah blah
-Purpose:
 
+#Purpose:
+
+```bash
+		file to the format that the "load" command of the PDP-11
+		simulator understands ("paper tape format")
+```
+  
 Oringinal Source:
 https://github.com/jguillaumes/retroutils/tree/master/bin2load
 
