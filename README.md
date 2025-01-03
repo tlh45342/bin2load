@@ -10,7 +10,7 @@
 Oringinal Source:
 https://github.com/jguillaumes/retroutils/tree/master/bin2load
 
-This code in the "bin2load" was designed to create a repository for just this executable.  I didn't need or want to build the entire source repository from Jordi.  So this streamlines and cuts down to just this.
+This repository ("bin2load" ) was forked / created to create a repository for just the executable.  I didn't need or want to build the entire source repository from Jordi.  So this streamlines and cuts down to just this.
 
 I am attempting to get this to run on Windows; Linux; Mac.  I can't test it directly for Mac.
 
