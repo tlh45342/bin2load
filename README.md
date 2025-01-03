@@ -7,7 +7,9 @@
   file to the format that the "load" command of the PDP-11
   simulator understands ("paper tape format")
 ```
-  
+
+To Tac on to that the reference is to the SIMH PDP11 emulator.  I had a dickens of a time getting something that would work until I found this code buried in part of his larger project.
+
 Oringinal Source:
 https://github.com/jguillaumes/retroutils/tree/master/bin2load
 
