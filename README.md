@@ -35,8 +35,7 @@ To build the exectable simply:
 make build
 ```
 
-This make file assumes the a installation directory is going to be pn the C drive in a folder namedd MinGW and then Bin.
-I am not aware of a truely practible way of deciding the destination choice for you.  I have mixed insallations or even overlapping installations and so trying to look and see to make a decision is the wrong way.  And I have NO idea why GCC for Windows wants to pretend a SPACE in the path is a good enough reason to through the kinds of fits it does.  Seems like a bit of a snit to me - but that is my opinion.  Yes I am security consiouse. 
+This make file assumes the a installation directory is going to be pn the C drive in a folder named MinGW and then bin.  I am not aware of a truely practicle way of deciding the destination choice for you.  I have mixed insallations or even overlapping installations and so trying to look and see to make a decision is the wrong way.  And I have NO idea why GCC for Windows wants to pretend a SPACE in the path is a good enough reason to through the kinds of fits it does.  Seems like a bit of a snit to me - but that is my opinion.  Yes I am security consiouse. 
  Yes any path with spaces should be encapsulated in quotes".  After that it's a crap shoot. 
 
 # Installation:
