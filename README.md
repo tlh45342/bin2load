@@ -18,7 +18,7 @@ This repository ("bin2load" ) was forked / created to create a repository for ju
 I am attempting to get this to run on Windows; Linux; Mac.  I can't test it directly for Mac.
 
 This version:
-This version only has some minor cosmetic updates.  I have manipulated the "Makefile" a bit
+This version only has some minor cosmetic adjustments.  I have manipulated the "Makefile" a bit
 And I have update main.c to include for a "--version" argument.
 
 # Getting:
