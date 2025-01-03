@@ -27,6 +27,18 @@ And I have update main.c to include for a "--version" argument.
 git clone https://github.com/tlh45342/load2bin.git
 ```
 
+# Building:
+
+To build the exectable simply:
+
+```bash
+make build
+```
+
+This make file assumes the a installation of the C drive in a folder namedd MinGW and then Bin.
+I am not aware of a truely practible way of deciding the destination choice for you.  I have mixed insallations or even overlapping installations and so trying to look and see to make a decision is the wrong way.  And I have NO idea why GCC for Windows wants to pretend a SPACE in the path is a good enough reason to through the kinds of fits it does.  Seems like a bit of a snit to me - but that is my opinion.  Yes I am security consiouse. 
+ Yes any path with spaces should be encapsulated in quotes".  After that it's a crap shoot. 
+
 # Installation:
 
 To  install executable
