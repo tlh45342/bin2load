@@ -18,13 +18,13 @@ This version:
 This version only has some minor cosmetic updates.  I have manipulated the "Makefile" a bit
 And I have update main.c to include for a "--version" argument.
 
-# Getting
+# Getting:
 
 ```bash
 git clone https://github.com/tlh45342/load2bin.git
 ```
 
-# Installation
+# Installation:
 
 To  install executable
 
@@ -32,12 +32,12 @@ To  install executable
 make install
 ```
 
-# CREDITS
+# Credits:
 
 Mine:  Tom Hamilton // tlh45342[@]gmail.com  (I am NOT Jordi Guillumes)
 
 The copyright/author is: Copyright (c) 2012, Jordi Guillaumes i Pons
 
-# License
+# License:
 
 Please see copyright imbedded in main.c
