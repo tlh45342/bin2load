@@ -3,8 +3,9 @@
 # Purpose:
 
 ```bash
-		file to the format that the "load" command of the PDP-11
-		simulator understands ("paper tape format")
+  Tool to convert an a.out executable or a memory binary image
+  file to the format that the "load" command of the PDP-11
+  simulator understands ("paper tape format")
 ```
   
 Oringinal Source:
