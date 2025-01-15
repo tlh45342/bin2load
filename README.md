@@ -15,7 +15,7 @@ https://github.com/jguillaumes/retroutils/tree/master/bin2load
 
 This repository ("bin2load" ) was forked / created to create a repository for just the executable.  I didn't need or want to build the entire source repository from Jordi.
 
-I am attempting to get this to run on Windows; Linux; Mac.  I can't test it directly for Mac.
+I am attempting to get this to run on Windows; Linux; Mac.  I can't test it directly for Mac (at this time).
 
 This version:
 This version only has some minor cosmetic adjustments.  I have manipulated the "Makefile" a bit
