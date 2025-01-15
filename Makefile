@@ -1,5 +1,5 @@
 ifeq ($(OS), Windows_NT)
-	DESTDIR =  C:/cygwin64/bin
+	DESTDIR =  C:/cygwin64
 	BINDIR = $(DESTDIR)/bin
 	TARGET = bin2load.exe
 	OBJS = bin2load.o
